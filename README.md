@@ -7,9 +7,6 @@ Welcome to the Hotel Management System! This project is designed to streamline h
 - [🛠️ Installation](#installation)
 - [🔧 Configuration](#configuration)
 - [🚀 Usage](#usage)
-- [🖼️ Screenshots](#screenshots)
-- [📝 License](#license)
-- [📧 Contact](#contact)
 
 ## 🌟 Features
 - **User Management:** Add, update, or delete user profiles.
@@ -52,7 +49,7 @@ MYSQL_USER = 'root'
 MYSQL_PASSWORD = 'yourpassword'
 MYSQL_DB = 'hotel_management' 
 ```
----
+
 ## 🚀 Usage
 
 Run the Application:
